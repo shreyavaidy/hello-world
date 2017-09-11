@@ -1,3 +1,3 @@
 # hello-world
 Testing the hello-world tutorial on github...
-Hello! Im Shreya. A fun, driven and enthusiastic individual who cares deeply about chocolates, comedy and equality for all people.
+Hello!kbye
